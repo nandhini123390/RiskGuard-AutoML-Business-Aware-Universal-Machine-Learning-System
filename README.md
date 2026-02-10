@@ -25,7 +25,7 @@ QUICK START
 
 1. Clone the repository
 
-git clone https://github.com/your-username/riskguard-automl.git  
+git clone  https://github.com/nandhini123390/RiskGuard-AutoML-Business-Aware-Universal-Machine-Learning-System/edit/main/README.md 
 cd riskguard-automl  
 
 2. Install dependencies
