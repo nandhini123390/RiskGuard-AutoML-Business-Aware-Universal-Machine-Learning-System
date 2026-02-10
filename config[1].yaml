@@ -1,0 +1,14 @@
+# RiskGuard AutoML Configuration
+business:
+  false_negative_cost: 500    # Cost of missing a churner
+  false_positive_cost: 50     # Cost of false intervention
+  intervention_cost: 50       # Cost per intervention
+  customer_value: 500         # Value of retaining a customer
+
+model:
+  n_trials: 30
+  cv_folds: 5
+
+monitoring:
+  drift_threshold: 0.15
+  alert_enabled: true
