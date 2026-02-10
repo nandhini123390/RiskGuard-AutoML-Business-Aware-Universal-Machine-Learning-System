@@ -1,0 +1,11 @@
+optuna
+lightgbm
+xgboost
+scikit-learn
+pandas
+numpy
+matplotlib
+seaborn
+pyyaml
+joblib
+
